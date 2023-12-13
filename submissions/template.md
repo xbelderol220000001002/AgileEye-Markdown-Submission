@@ -10,7 +10,7 @@ Description of your applications (you can include lists, quotes, tables, etc)
 
 ***  
 # Tags List  
-###(you can make your own tag by submitting your md file and the list here will be updated)  
+### (you can make your own tag by submitting your md file and the list here will be updated)  
 - Showcase
 - Tracker
 - Integration
