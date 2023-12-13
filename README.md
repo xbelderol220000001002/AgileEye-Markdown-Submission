@@ -15,7 +15,7 @@ This is only for submissions of your web applications to be implemented to our s
 
 ***
 # Tags List  
-###(you can make your own tag by submitting your md file and the list here will be updated)  
+### (you can make your own tag by submitting your md file and the list here will be updated)  
 - Showcase
 - Tracker
 - Integration
