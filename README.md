@@ -7,6 +7,7 @@ This is only for submissions of your web applications to be implemented to our s
     - file format can be png, jpg or svg
 - Logo (any size but square size is encouraged)
     - name format: appnameLogo
+    - must be transparent
     - file format can be png, jpg or svg
 - Md file (template is provided below)
     - name format: appname.md
