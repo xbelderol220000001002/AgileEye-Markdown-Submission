@@ -9,8 +9,8 @@ This is only for submissions of your web applications to be implemented to our s
     - name format: appnameLogo
     - must be transparent
     - file format can be png, jpg or svg
-- Md file (template is provided below)
-    - name format: appname.md
+- Md file
+    - file format: appname.md
     - Template of the md file is seen inside the submissions folder
 
 ***
