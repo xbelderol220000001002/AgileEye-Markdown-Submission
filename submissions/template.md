@@ -3,8 +3,8 @@
 Description of your applications (you can include lists, quotes, tables, etc)  
 
 ## Tags (Up to 3 tags only)  
--First Tag
--Second Tag
+-First-Tag
+-Second-Tag
 
 [Name of the Link](The url link to your application) 
 
