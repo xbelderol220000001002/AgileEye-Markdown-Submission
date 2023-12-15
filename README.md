@@ -19,6 +19,10 @@ This is only for submissions of your web applications to be implemented to our s
 - Showcase
 - Tracker
 - Integration
+- Documents
+- Requisition
+- Ordering
+- Inventory
   
 To submit your files, go to the submission folder, then make a folder and name it your application (e.g. AgileEye) and submit your files there.  
 For guidance, please check the AgileEye folder for reference.  
