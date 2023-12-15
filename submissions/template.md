@@ -14,6 +14,10 @@ Description of your applications (you can include lists, quotes, tables, etc)
 - Showcase
 - Tracker
 - Integration
+- Documents
+- Requisition
+- Ordering
+- Inventory
       
 For references on markdown syntax  
 [Please refer here](https://www.markdownguide.org/basic-syntax/)
