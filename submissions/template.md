@@ -18,6 +18,8 @@ Description of your applications (you can include lists, quotes, tables, etc)
 - Requisition
 - Ordering
 - Inventory
+- Reservation
+- Online Platform
       
 For references on markdown syntax  
 [Please refer here](https://www.markdownguide.org/basic-syntax/)
