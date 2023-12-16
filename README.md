@@ -23,6 +23,8 @@ This is only for submissions of your web applications to be implemented to our s
 - Requisition
 - Ordering
 - Inventory
+- Reservation
+- Online Platform
   
 To submit your files, go to the submission folder, then make a folder and name it your application (e.g. AgileEye) and submit your files there.  
 For guidance, please check the AgileEye folder for reference.  
