@@ -20,6 +20,8 @@ Description of your applications (you can include lists, quotes, tables, etc)
 - Inventory
 - Reservation
 - Online Platform
+- Borrowing
+- ResourceManagement
       
 For references on markdown syntax  
 [Please refer here](https://www.markdownguide.org/basic-syntax/)
