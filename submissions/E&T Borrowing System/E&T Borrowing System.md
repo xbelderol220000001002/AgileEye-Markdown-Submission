@@ -5,6 +5,6 @@ We have modeled our system after the University of the Immaculate Conception's b
 ## Tags  
 - Borrowing
 - Tracking
-- ResourceManagement
+- Inventory
 
 [E&T Borrowing System Link](https://borrowingsystem.netlify.app/)
